@@ -1,0 +1,29 @@
+
+.thumbnail{
+    width: 260px;
+}
+.video-tittle{
+    font-weight: 550;
+    font-family: Arial, sans-serif;
+    width: 250px;
+    margin-bottom: 4px;
+}
+p{
+    color: rgb(91, 89, 89);
+    font-size: 14px; 
+}
+.video-author{
+    margin-bottom: 0px;
+}
+
+.video-stats{
+    margin-top: 5px;
+}
+
+.talking-tech{
+    margin-right: 7px;
+    display: inline-block;
+    margin-top: 20px;
+    vertical-align: top;
+}
+
